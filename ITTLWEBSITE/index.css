@@ -1,0 +1,58 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+nav ul {
+    background-color: #7c021b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10%;
+}
+
+nav li {
+    list-style-type: none;
+}
+
+nav li a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+nav li a:hover {
+    color: black;
+}
+
+h1 {
+    display: flex;
+    font-size: 40px;
+    align-items: center;
+    justify-content: center;
+    color:  rgb(255, 255, 255);
+    min-height: 250px;
+}
+
+nav {
+    position: sticky;
+    left: 0px;
+    top: 0px;
+}
+
+header {
+    background-image: url(./alfa-romeo-c41-f1-auto-2021-3-e1613992983319.jpg);
+    background-size: cover;
+    background-position: top center;
+    height: 100vh;
+}
+
+main {
+    background-image: url(./Baku-Alfa.jpg);
+    background-size: cover;
+    background-position: top center;
+    height: 100vh;
+}
+
+.kimi {
+    display: flex;
+    padding-left: 250px;
+}

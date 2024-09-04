@@ -1,0 +1,49 @@
+nav ul {
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10%;
+}
+
+body {
+    background-color: #7c021b;
+}
+
+nav li {
+    list-style-type: none;
+}
+
+nav li a {
+    text-decoration: none;
+    color: #7c021b;
+}
+
+nav li a:hover {
+    color: black;
+}
+
+.Teamfoto {
+    text-align: center;
+}
+
+.Teamfoto p {
+    text-align: left;
+    color: white;
+}
+
+div {
+    margin-left: 75px;
+}
+
+.Kimi {
+    color: white;
+}
+
+.Gio {
+    color: white;
+}
+
+.Teambaas {
+    color: white;
+}
